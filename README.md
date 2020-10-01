@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L0SER</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 18 years old Self-taught, passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
 
