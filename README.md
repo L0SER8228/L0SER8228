@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
 
+  <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on **Discord Bots**
 
 - 🌱 I’m currently learning **discord.js**
