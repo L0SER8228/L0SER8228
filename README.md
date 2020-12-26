@@ -19,6 +19,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com/" target="_blank"> <img src="https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg" alt="html5" width="40" height="40"/> <a href="https://repl.it/" target="_blank"> <img src="https://repl.it/public/images/light-logo.svg" alt="html5" width="40" height="40"/> </a> <a href="https://glitch.com" target="_blank"> <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Flogo-day.svg" alt="aws" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0ser8228&show_icons=true" alt="l0ser8228" /></p>
+<details>
+  <summary>🔥 Recent GitHub Activity</summary>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0ser8228&show_icons=true" alt="l0ser8228" /></p>
+</details>
 
+<details>
+  <summary>📜 Most Used Languages</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SER8228&layout=compact&show_icons=true" alt="l0ser8228" /></p>
+</details>
