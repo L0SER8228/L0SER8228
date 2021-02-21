@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
 <br>
   <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" />
+<br>
 
 - 🔭 I’m currently working on **Discord Bots**
 
@@ -32,5 +33,5 @@
 <br>
 <details>
   <summary><h3 align="left">📊 Github Stats</h3></summary>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&theme=dark&hide_border=true" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true" alt="L0SER8228" /></p>
 </details>
