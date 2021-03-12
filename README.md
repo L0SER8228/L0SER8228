@@ -34,21 +34,15 @@
 
 <hr>
 
-<details>
-  <summary><h3 align="left">🔥 Recent GitHub Activity</h3></summary>
+<h3 align="left">🔥 Recent GitHub Activity</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0ser8228&show_icons=true" alt="L0SER8228" /></p>
-</details>
 
 <hr>
 
-<details>
-  <summary><h3 align="left">📜 Most Used Languages</h3></summary>
+<h3 align="left">📜 Most Used Languages</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SER8228&layout=compact&show_icons=true" alt="L0SER8228" /></p>
-</details>
 
 <hr>
 
-<details>
-  <summary><h3 align="left">📊 Github Stats</h3></summary>
+<h3 align="left">📊 Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true" alt="L0SER8228" /></p>
-</details>
