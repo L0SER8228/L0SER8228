@@ -4,9 +4,9 @@
 <hr>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" />
-<img src="https://img.shields.io/github/forks/L0SER8228/L0SER8228?color=blue" alt="l0ser8228" />
-<img src="https://img.shields.io/github/stars/L0SER8228/L0SER8228?color=blue" alt="l0ser8228" />
+<img src="https://komarev.com/ghpvc/?username=L0SER8228" alt="L0SER8228" />
+<img src="https://img.shields.io/github/forks/L0SER8228/L0SER8228?color=blue" alt="L0SER8228" />
+<img src="https://img.shields.io/github/stars/L0SER8228/L0SER8228?color=blue" alt="L0SER8228" />
 </p>
 
 <hr>
@@ -35,7 +35,7 @@
 <hr>
 
 <h3 align="left">🔥 Recent GitHub Activity</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0ser8228&show_icons=true" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true" alt="L0SER8228" /></p>
 
 <hr>
 
@@ -44,5 +44,10 @@
 
 <hr>
 
-<h3 align="left">📊 Github Stats</h3>
+<h3 align="left">👨‍💻 Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true" alt="L0SER8228" /></p>
+
+<hr>
+
+<h3 align="left">📊 Wakatime Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228" alt="L0SER8228" /></p>
