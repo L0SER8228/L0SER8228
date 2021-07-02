@@ -49,5 +49,9 @@
 
 <hr>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=onedark)](https://github.com/L0SER8228)
+
+<hr>
+
 <h3 align="left">📊 Wakatime Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228" alt="L0SER8228" /></p>
