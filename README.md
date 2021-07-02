@@ -35,17 +35,17 @@
 <hr>
 
 <h3 align="left">🔥 Recent GitHub Activity</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true&theme=radical" alt="L0SER8228" /></p>
 
 <hr>
 
 <h3 align="left">📜 Most Used Languages</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SER8228&layout=compact&show_icons=true" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SER8228&layout=compact&show_icons=true&theme=radical" alt="L0SER8228" /></p>
 
 <hr>
 
 <h3 align="left">👨‍💻 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true&theme=radical" alt="L0SER8228" /></p>
 
 <hr>
 
@@ -54,4 +54,4 @@
 <hr>
 
 <h3 align="left">📊 Wakatime Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228" alt="L0SER8228" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228&theme=radical" alt="L0SER8228" /></p>
