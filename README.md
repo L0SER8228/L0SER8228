@@ -49,7 +49,7 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=discord)](https://github.com/L0SER8228)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=discord&column=3)](https://github.com/L0SER8228)
 
 <hr>
 
